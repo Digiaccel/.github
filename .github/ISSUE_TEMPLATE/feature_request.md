@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Descrption**
+**Description**
 A clear and concise description of what you want to happen.
 
 **Attach screenshots if any,**
